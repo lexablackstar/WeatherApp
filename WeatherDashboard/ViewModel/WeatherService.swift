@@ -20,7 +20,7 @@ class WeatherService {
     
     // MARK: - OpenWeatherMap API key and URL
     // This is a security risk - API key must NEVER be put in the code - to be removed after the demo
-    private let apiKey = "7b67e4e50d1fc481bb70f7e7a521a67c"
+    private let apiKey = ""
     private let baseURL = "https://api.openweathermap.org/data/3.0/onecall"
     
     // Request current and daily data, excluding minutely, hourly, and alerts.
