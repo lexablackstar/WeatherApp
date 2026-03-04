@@ -44,7 +44,6 @@ git clone https://github.com/lexablackstar/WeatherApp.git
 cd WeatherApp
 open WeatherDashboard.xcodeproj
 ```
-Then build and run in Xcode with `⌘ + R`.
 
 ---
 ## **Skills**
