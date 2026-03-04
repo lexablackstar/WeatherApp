@@ -9,7 +9,7 @@ import Foundation
 class WeatherAdviceOpenAI {
     // MARK: - OpenAI API key and URL
     // This is a security risk - API key must NEVER be put in the code - to be removed after the demo
-    private let apiKey: String = "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"
+    private let apiKey: String = ""
     private let urlBase: String = "https://api.openai.com/v1/chat/completions"
     
     // MARK: - Public Methods
